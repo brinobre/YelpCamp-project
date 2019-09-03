@@ -1,0 +1,2 @@
+# YelpCamp-project
+This is the biggest project I've ever worked on. It's a complete and functional website hosted on heroku togheter wing MongoDB. The app lets the user create an account and rent out their fictional property for others to camp at. The user may only create and comment on posts when logged in. The user may also only edit or delete their owns posts. Numerous Npm packages were used in this project. I hope you like playing around with it atleast half as much as I enjoyed creating it.
